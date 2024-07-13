@@ -14,7 +14,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitionvr&label=Profile%20views&color=0e75b6&style=flat" alt="nitionvr" /> </p>
 
 <h1 align="center">
-  Hello, I'm Amos Maganyane!
+  Hello, my name is Amos Maganyane!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
