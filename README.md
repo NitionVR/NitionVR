@@ -26,9 +26,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitionvr" alt="nitionvr" /></a> </p>
 
-- 🔭 I’m currently working on [TeleMissionBot](https://github.com/NitionVR/TeleMissionBot)
-
-- 🌱 I’m currently learning **Agile methodologies, Brownfields development, Automation.**
+- 🔭 I’m currently working on [Nition Search Engine](https://github.com/NitionVR/Nition-Search-Engine)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
