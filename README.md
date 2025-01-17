@@ -18,7 +18,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<h3 align="center">Aspiring software engineer from South Africa passionate about harnessing technology to drive positive change.</h3>
+<h3 align="center">Aspiring software developer from South Africa passionate about harnessing technology to drive positive change. I'm currently studying Software Development at WeThinkCode. </h3>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
