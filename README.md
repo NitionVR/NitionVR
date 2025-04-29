@@ -3,6 +3,7 @@
 
   <h1 align="center">🌌 Amos Maganyane</h1>
   <h3 align="center">Software Developer</h3>
+  <p> I am a problem solver</p>
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/amos-maganyane/">
